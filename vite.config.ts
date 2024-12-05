@@ -6,5 +6,7 @@ export default defineConfig({
   plugins: [react()],
   optimizeDeps: {
     exclude: ['lucide-react'],
+    
   },
+  base: './', // Ensure all assets are loaded relative to the current directory
 });
