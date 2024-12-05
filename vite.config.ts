@@ -8,5 +8,5 @@ export default defineConfig({
     exclude: ['lucide-react'],
     
   },
-  base: './', // Ensure all assets are loaded relative to the current directory
+  base: '/Kugarika_deploy/', // Ensure all assets are loaded relative to the current directory
 });
