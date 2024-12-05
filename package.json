@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-=======
+
 {
   "homepage": "https://Birds5844.github.io",
   "name": "kugarika-solar",
@@ -37,4 +36,4 @@
     "vite": "^5.4.11"
   }
 }
->>>>>>> Stashed changes
+
